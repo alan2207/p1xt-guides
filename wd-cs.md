@@ -29,7 +29,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 - [x]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
 - [x]  Project:  Simon Game from the frontend section of FCC    
-- [x]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
+- [ ]  Project: Read up on [Gulp](http://gulpjs.com/) - try to incorporate it into your workflow if you aren't using it regularly already
 - [x]  Project: Read up on [Mocha](https://mochajs.org/) - try to use it to test your JavaScript, every chance you get
 - [x]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
 - [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
@@ -37,7 +37,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-- [ ]  Project: Build the Pomodoro project from the FCC frontend curriculum
+- [x]  Project: Build the Pomodoro project from the FCC frontend curriculum
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
 - [ ]  Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.    
 - [ ]  Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
